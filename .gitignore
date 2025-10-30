@@ -39,3 +39,36 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.sublime-*
+
+# macOS
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Serena MCP (keep project config only, ignore cache and memories)
+.serena/*
+!.serena/project.yml
+
+# Test results (future-proofing)
+test-results/
+.playwright/
+playwright-report/
+.jest/
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# AI / API keys (extra safety)
+*.key
+secrets.json
