@@ -187,7 +187,7 @@ export function ChatInterface() {
         }`}
       >
         <div className="px-4 py-4">
-          <h1 className="text-lg font-semibold text-foreground">AI 웨딩 플래너</h1>
+          <h1 className="text-lg font-semibold text-foreground">메리톡</h1>
           <p className="text-sm text-muted-foreground">당신의 완벽한 결혼식을 위한 AI 어시스턴트</p>
         </div>
       </div>

@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is an AI-powered Korean wedding planning application ("AI 웨딩 플래너") built with Next.js 16 and React 19. The app helps Korean couples prepare for their wedding by providing AI chat assistance, vendor recommendations, task management, and budget planning.
+This is "메리톡 (MarryTalk)", an AI-powered Korean wedding planning application built with Next.js 16 and React 19. The app helps Korean couples prepare for their wedding by providing AI chat assistance, vendor recommendations, task management, and budget planning.
 
 ## Development Commands
 

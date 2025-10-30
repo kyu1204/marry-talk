@@ -35,7 +35,7 @@ export function WeddingOnboarding() {
           <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-primary/10 mb-4">
             <HeartIcon className="w-10 h-10 text-primary" />
           </div>
-          <h1 className="text-4xl font-bold text-balance text-foreground">AI 웨딩 플래너</h1>
+          <h1 className="text-4xl font-bold text-balance text-foreground">메리톡</h1>
           <p className="text-lg text-muted-foreground text-pretty max-w-sm mx-auto">
             완벽한 결혼식을 위한 모든 준비, AI가 단계별로 도와드립니다
           </p>

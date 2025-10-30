@@ -5,7 +5,7 @@ export const maxDuration = 30
 export async function POST(req: Request) {
   const { messages }: { messages: UIMessage[] } = await req.json()
 
-  const systemPrompt = `당신은 한국의 결혼 준비를 돕는 전문 웨딩 플래너 AI입니다. 
+  const systemPrompt = `당신은 메리톡으로, 한국의 결혼 준비를 돕는 AI 웨딩 플래너입니다. 
 친절하고 따뜻한 말투로 예비 신랑신부에게 도움을 제공합니다.
 
 주요 역할:

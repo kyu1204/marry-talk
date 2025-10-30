@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "AI 웨딩 플래너 - 완벽한 결혼 준비",
+  title: "메리톡 - 완벽한 결혼 준비",
   description: "AI가 도와주는 스마트한 결혼 준비 서비스",
   generator: "v0.app",
 }

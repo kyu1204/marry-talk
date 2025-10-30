@@ -48,7 +48,7 @@ export function ChatInterface() {
                     <Sparkles className="w-8 h-8 text-secondary" />
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold mb-2">AI 웨딩 플래너에게 물어보세요</h3>
+                    <h3 className="text-lg font-semibold mb-2">메리톡에게 물어보세요</h3>
                     <p className="text-sm text-muted-foreground mb-4">결혼 준비에 대한 모든 궁금증을 해결해드립니다</p>
                   </div>
                   <div className="grid grid-cols-1 gap-2 text-left">
